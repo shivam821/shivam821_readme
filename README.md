@@ -1,4 +1,3 @@
-![Header](./your-header-image-name.png)
 
 I'm Shivam from India, and I do content on Design and Development. I really enjoy learning languages like Python and JavaScrip. I also enjoy wireframing, ui, ux, and design in general.
 
