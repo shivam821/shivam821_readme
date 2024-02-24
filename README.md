@@ -2,10 +2,10 @@
 
 <img width="100%" src="https://github-profile-page-creator.netlify.app/![Header](./your-header-image-name.png)" alt="my banner">
 
-I'm Shivam from India, and I do content on Design and Development. I really enjoy learning languages like Python and JavaScrip. I also enjoy wireframing, ui, ux, and design in general.
-Innovative Programmer striving to make the world a more unified and connected place. A creative thinker, adept in software development and working with various data structures. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team.
+I'm Shivam from India, doing content on Design and Development. I enjoy learning languages like Python and JavaScrip. I also enjoy wireframing, UI, UX, and design in general.
+Innovative Programmer striving to make the world a more unified and connected place. A creative thinker, adept in software development and working with various data structures. Proficient in various platforms, languages, and embedded systems. Experienced with the latest cutting-edge development tools and procedures. Able to effectively self-manage during independent projects and collaborate as part of a productive team.
 
-## 💫 Liitle Bit More About Me
+## 💫 A Little Bit More About Me
 <p>🌱 I'm currently learning Javascript</p>
 
 ## 💻 Skills
